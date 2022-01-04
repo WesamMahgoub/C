@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1641315297 source:e:\repositories\cprojects\thehurdlerace\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1641312821 source:e:\repositories\cprojects\gradingstudents\main.c
+	<stdio.h>
+	<stdlib.h>
+

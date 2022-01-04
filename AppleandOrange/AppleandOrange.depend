@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1640960721 source:f:\appleandorange\main.c
+	<stdio.h>
+	<stdlib.h>
+

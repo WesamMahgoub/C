@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1637347563 source:f:\minmaxsum\main.c
+	<stdio.h>
+	<stdlib.h>
+

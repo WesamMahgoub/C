@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1641310052 source:e:\repositories\cprojects\birthdaycakecandles\main.c
+	<stdio.h>
+	<stdlib.h>
+

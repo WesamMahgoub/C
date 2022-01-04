@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637246094 source:f:\solveme\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
